@@ -1,6 +1,7 @@
 import type { LinksFunction, MetaFunction } from "@remix-run/node";
 import React, { useEffect } from "react";
 import ItemSection from "../components/ItemSection";
+
 // filepath: /f:/Remix/item/item-section/app/root.tsx
 
 export const meta: MetaFunction = () => {
